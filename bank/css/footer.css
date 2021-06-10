@@ -1,0 +1,17 @@
+footer{
+	color:black;
+	background-color: #bec8d1;
+	letter-spacing: 0.5px;
+}
+footer a{
+	font-size:25px;
+	font-weight:bold;
+	text-decoration-line: none;
+}
+footer p a{
+	font-size: 15px;
+}
+footer p{
+	height:fit-content;
+	font-size: 15px;
+}
